@@ -4,11 +4,17 @@ To write a python program to find the inverse of a matrix
 ## Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
 ## Algorithm:
+
 ### Step1 : 
-### Step 2: 
+Import the numpy module to use the built-in functions for calculation
+### Step 2:
+Using np.array() store the matrix in the variable matrix
 ### Step 3: 
-### Step 4: 
+Using the np.linalg.inv() we can find the inverse of the iven matrix
+### Step 4:
+Print the inverse of the matrix
 
 ## Program:
 ```
